@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646483032 source:c:\users\kaank\onedrive\masaüstü\klasörler\yazılım\c dersleri\strcat foksiyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
